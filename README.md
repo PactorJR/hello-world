@@ -1,6 +1,6 @@
 # hello-world
 ITECH65 ACTIVITY
-//In the editor, write a bit about yourself. Try using different Markdown elements.
+#In the editor, write a bit about yourself. Try using different Markdown elements.
 Hello world
 MY NAME IS JR PACTOR
 AGE 20
